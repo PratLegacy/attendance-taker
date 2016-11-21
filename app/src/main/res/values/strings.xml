@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Attendance Taker</string>
+    <string name="Third">Third Semester</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="vision">To emerge as a centre for achieving academic excellence, by producing competent professionals to meet the global challenges in the field of Information science and Technology.</string>
+    <string name="mission1">To prepare the students as competent professionals to meet the global challenges in the industry and academia by imparting quality technical education.</string>
+    <string name="mission2">To enrich the technical ability of students to face the world with confidence, commitment and teamwork.</string>
+    <string name="mission3">To inculcate and practice strong techno-ethical values to serve the society.</string>
+    <string name="vt">VISION</string>
+    <string name="mt">MISSION</string>
+
+
+    <string name="abouttext">JSS Academy of Technical Education was established in the year 1997 at
+        Bangalore and is under the umbrella of JSS Mahavidyapeetha, Mysore. JSSATE is the result of the vision of our
+        President, His Holiness Jagadaguru Sri Shivarathri Deshikendra Mahaswamiji to proactively participate in establishing
+        a world class Institution for Technical Education. The Campus is located in a sprawling 21.17 acres land surrounded by
+        lush green plantation on the South-Western edge of Bangalore City. Institution is affiliated to Visvesvaraya Technological
+        University (VTU), Belgaum, India. The Institute has highly qualified faculty and has initiated number of multi disciplinary and multi-Institutional
+        R &amp; D programmes with AICTE, DST and other departments.    Under the R &amp; D activity, the  Institute has taken up the design and
+        fabrication of BIO-Diesel plant in collaboration with an industry and it is sponsored by Department of Science and Technology
+        (DST), Government of India. This was recognized as one of the best completed project and same is being replicated in
+        different states.
+        </string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <!--<string name="IS">Information Science and Engineering</string>-->
+    <!--<string name="CS">Information Science and Engineering</string>-->
+    <!--<string name="IM">Information Science and Engineering</string>-->
+    <!--<string name="ME">Information Science and Engineering</string>-->
+    <!--<string name="CV">Information Science and Engineering</string>-->
+    <!--<string name="EC">Information Science and Engineering</string>-->
+    <!--<string name="IT">Information Science and Engineering</string>-->
+
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="175dp"
+        android:id="@+id/about"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/about" />
+
+        <TextView
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:textSize="15dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vt"
+            android:id="@+id/vt"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+
+            android:textAlignment="center" />
+
+        <TextView
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vision"
+            android:id="@+id/visiont"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="6dp"
+            android:paddingTop="22dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mt"
+            android:textColor="@color/colorPrimaryDark"
+            android:id="@+id/missiont"
+            android:textSize="15dp"
+            android:textStyle="bold"
+
+            android:textAlignment="center" />
+        <TextView
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="2dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mission1"
+            android:id="@+id/mission1"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:textAlignment="center" />
+
+
+
+        <TextView
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mission2"
+            android:id="@+id/mission2"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mission3"
+            android:id="@+id/mission3"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:textAlignment="center" />
+
+
+
+</LinearLayout>
